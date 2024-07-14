@@ -8,6 +8,7 @@ import (
 	gonet "net"
 	"time"
 
+    "github.com/gorilla/websocket"
 	"github.com/GFW-knocker/Xray-core/common"
 	"github.com/GFW-knocker/Xray-core/common/errors"
 	"github.com/GFW-knocker/Xray-core/common/net"
